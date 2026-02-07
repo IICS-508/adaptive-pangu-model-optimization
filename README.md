@@ -77,6 +77,8 @@
 - src/main_speculative_draft_ceval.py: 基于 Top-K 采样的大-小模型投机解码器。
     
 - src/main_speculative_pld.py: 基于 N-Gram 匹配的预测查找解码实现（适配 OpenCompass）。
+      
+- src/model_framework.py
     
 - docs/: 详细的实验报告与技术分析文档。
 
